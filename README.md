@@ -1,6 +1,4 @@
-# ML Classification Project
-A project for Machine learning to classify data
-The problem statement was a set of thousands of datapoints with corresponding labels from 1-20
-
-The goal was to train any machine learning model to classify the data into the 20 classes.
-The data had noise as well as invalid features and so the focus was on preprocessing
+# Handwritten text classifier
+## A project with the goal of data preprocessing with the ultimate goal of classification
+## A data pipeline that cleaned, regularised and normalised data and finally applying a neural network solution to find trends on what was initially an unknown data set. 
+## Implemnentation includes visualisation tools and recereatable classifier with 80% accuracy that classifies handdrawn text of various fonts
